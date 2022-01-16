@@ -81,7 +81,7 @@ int main()
     cout << "\n\n\n";
     drawLine(70,'=');
     cout << "\n\nThanks for playing game. Your balance amount is $ " << amount << "\n\n";
-    drawLine(70,'=');
+    drawLine(65,'=');
  
     return 0;
 }
